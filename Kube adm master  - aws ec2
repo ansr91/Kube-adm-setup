@@ -1,0 +1,6 @@
+
+Current ec2 Kube adm master joining key
+
+
+kubeadm join 172.31.32.26:6443 --token upa7kg.vel5pip5ebilxcuw \
+        --discovery-token-ca-cert-hash sha256:7bbb47e3d6053c608dc3d93170df6b8e19f39becfed0af51be27dd54ec65ba12
